@@ -1,0 +1,22 @@
+{
+	"projectName": "nowakadmin",
+	"licenseText": "proprietary",
+	"pkgs": [{
+		"name": "nowakadmin CSS",
+		"file": "nowakadmin.css",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "custom.css",
+			"path": "themes/admin/jqadm/"
+		}]
+	}, {
+		"name": "nowakadmin JS",
+		"file": "nowakadmin.js",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "custom.js",
+			"path": "themes/admin/jqadm/"
+		}]
+	}],
+	"resources" : []
+}
